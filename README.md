@@ -33,6 +33,13 @@ contrarily to what was previously reported for much smaller crawls, although the
   * Clustering coefficient
 
 ## Week 3
+Class went to asynchronous session this week. Task of this week is to watch the following YouTube video lectures by Prof. Mark Newman,
+
+* [Mark Newman - The Connected World](https://www.youtube.com/watch?v=yAtsm5xkb5c)
+* [Mark Newman - What Networks Can Tell us About the World](https://www.youtube.com/watch?v=lETt7IcDWLI)
+* [Mark Newman - Using Networks To Make Prediction](https://www.youtube.com/watch?v=rwA-y-XwjuU)
+
+**todo:** Will add notes on this videos after finish watching it.
 
 ## Week 4
 
