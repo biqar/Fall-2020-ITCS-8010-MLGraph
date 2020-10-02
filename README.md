@@ -28,15 +28,31 @@ on the crawling process, and to the best of our current knowledge is not a struc
 contrarily to what was previously reported for much smaller crawls, although they might be heavy-tailed.
 ```
 * Discussed about the basics of key network properties
-  * Degree distribution
-  * Path length
-  * Clustering coefficient
+  * Degree distribution: P(k)
+    * Probability that a randomly chosen node has degree k
+  * Path length: h
+    * Network diameter: Longest shortest path in a graph
+  * Clustering coefficient: C(i)
+    * What portion of i's neighbors are connected
+    * C(i) = (2 * e_i) / [k_i * (k_i - 1)]
 
 ## Week 3
 Class went to asynchronous session this week. Task of this week is to watch the following YouTube video lectures by Prof. Mark Newman,
 
 * [Mark Newman - The Connected World](https://www.youtube.com/watch?v=yAtsm5xkb5c)
+  * Introduces different types of network. For example, technological network (internet), information network (www), biological network (food cycle), social network (who knows whom), etc.
+  * Already covered in the week-1 class discussion.
 * [Mark Newman - What Networks Can Tell us About the World](https://www.youtube.com/watch?v=lETt7IcDWLI)
+  * Centrality: Which is the most important node in the network?
+  * Milgram's `Small World` experiment
+  * Closeness Centrality: Average distance to everyone else in the network.
+    * Not a very good measure
+      * Hard to calculate
+      * Nearly same for everyone
+  * Degree Centrality: Solves the problems of closeness centrality: easy to calculate; not same for everyone.
+    * Not all people are equally important; but this can be solved by the idea of ...
+  * Transitivity: 
+  * Homophily: 
 * [Mark Newman - Using Networks To Make Prediction](https://www.youtube.com/watch?v=rwA-y-XwjuU)
 
 **todo:** Will add notes on this videos after finish watching it.
