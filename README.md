@@ -112,6 +112,18 @@ Class went to asynchronous session this week. Task of this week is to watch the 
   * Observation: Very much different comparing with the real network (i.e. MSN Network)
 
 ## Week 5
+* Graph structure of G_np as p changes: todo: add image here
+* Six degrees of Kevin Bacon: todo: add image of erdos-me distance in publication
+* Small-world experiment
+  * Milgram ’67 (letter experiment): Avg. chain length = 6
+  * Columbia small-world study (email experiment): Avg. chain length = 4
+* Should we be surprised by the concept of 6-degrees?
+  * Step 1: reach 100 people
+  * Step 2: reach 100 x 100 = 10,000 people
+  * Step 3: reach 100 x 100 x 100 = 1,000,000 people
+  * Step 4: reach 100 x 100 x 100 x 100 = 100M people
+  * In 5 steps we can reach 10 billion people
+* todo: add centrality; impact of clustering co-efficient etc here ...
 
 ## Week 6
 
