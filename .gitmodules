@@ -1,0 +1,3 @@
+[submodule "project/hypergraph-study"]
+	path = project/hypergraph-study
+	url = https://github.com/biqar/hypergraph-study
